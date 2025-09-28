@@ -1,0 +1,16 @@
+feature,importance
+current_champion,0.0119601081231223
+weight_class_encoded,0.01972346522918006
+experience_level_encoded,0.019922308780010174
+secondary_title_reigns,0.024416501882832748
+tag_title_reigns,0.024685708473029467
+brand_encoded,0.040554544411446666
+years_active,0.06127186420078076
+total_matches,0.06470581951564099
+age,0.06888702727779385
+title_impact,0.08941959111828487
+social_media_followers_millions,0.10307570942626337
+main_evented_ppv,0.11523567208664669
+avg_matches_per_month,0.11665254071480285
+world_title_reigns,0.11666872657539722
+career_win_percentage,0.12282041218476797
