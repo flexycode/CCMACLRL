@@ -9,9 +9,10 @@
 ### Schedule: [TUE 11:00AM - 01:40 PM VR09CCIT - FRI 11:00AM - 03:00 PM 408 MB](https://www.youtube.com/watch?v=dL7Vn7hJDAk&list=RDdL7Vn7hJDAk&start_radio=1)
 ### Professor: [Elizer Ponio Jr](https://github.com/robitussin/)     
 ### No. of Units: [3 Units](https://www.youtube.com/watch?v=UVJSA2N39NU&list=RDUVJSA2N39NU&start_radio=1)
-### Prerequisite: [None](https://www.youtube.com/watch?v=v3BBE7wtuIM&list=RDv3BBE7wtuIM&start_radio=1)
+### Prerequisite: [Python & Common Sense](https://www.pornhub.com/)
 ### Subject Repo Link: [Professor Elizer Machine Learning Repo](https://github.com/robitussin/CCMACLRL)
-### Project Link: [Coming Soon](https://www.youtube.com/watch?v=R3rYh4iWcRk&list=RDfFqxDrmQLnQ&index=3)
+### Project Link: [CCMACLRL_COM231_PROJECT](https://github.com/flexycode/CCMACLRL_COM231_PROJECT)
+### Lab Activity Link: [CCMACLRL_EXERCISES_COM231ML](https://github.com/flexycode/CCMACLRL_EXERCISES_COM231ML)
 
 <!-- 🤖 Machine Learning 🤖 -->
 <div align="center">
